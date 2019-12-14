@@ -13,6 +13,7 @@ This is the "60-minute blitz", based on the official pytorch quickstart intro fo
 ## [Datasets, dataloaders and transforms](./02_datasets_dataloaders_transforms)
 Slick, object-oriented ways of preparing datasets.
 
-## Reinforcement learning
+## [Reinforcement learning](./03_reinforcement_learning)
+Training a DQN to play CartPole using convolutional networks.
 
 ## NLP
